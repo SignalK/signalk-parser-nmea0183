@@ -12,6 +12,7 @@ module.exports = {
   'HDG': require('./HDG.js'),
   'HDM': require('./HDM.js'),
   'HDT': require('./HDT.js'),
+  'PASHR': require('./proprietary/PASHR.js'),
   'PBVE': require('./proprietary/PBVE.js'),
   'PNKEP': require('./proprietary/PNKEP.js'),
   'PSMDST': require('./proprietary/PSMDST.js'),
